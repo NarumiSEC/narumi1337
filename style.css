@@ -101,11 +101,10 @@ footer {
   border-radius: 10px;
   margin-bottom: 2rem;
 }
-.result-container h2 {
+.result-container h2,h3 {
   font-size: 3.2rem;
   text-align: center;
 }
-
 /* heart loader */
 .cssload-main {
   display: none;
@@ -426,4 +425,5 @@ footer {
     -moz-transform: scale(0.5);
     border-color: rgb(228, 228, 228);
   }
+
 }
